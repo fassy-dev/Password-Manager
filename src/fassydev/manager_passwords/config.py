@@ -1,0 +1,3 @@
+FILE_NAME = "passwords.json"
+MASTER_PASSWORD = "1"
+MAX_ATTEMPTS = 3
